@@ -1,0 +1,12 @@
+table tr,th,td{
+    border:solid 3px black;
+    }
+
+body{
+    background-color: #e04530;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 30px;
+    padding-bottom: 100px;
+    padding-top: 30px
+
+}
