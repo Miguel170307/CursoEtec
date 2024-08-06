@@ -1,12 +1,87 @@
 table tr,th,td{
-    border:solid 3px black;
-    }
+    border:solid 3px white;
+    width: 100%;
+}
 
 body{
     background-color: #e04530;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     padding-left: 30px;
     padding-bottom: 100px;
-    padding-top: 30px
+    padding-top: 30px;
 
 }
+
+h1{
+    font-weight: 300px;
+    color: white;
+    font-size:40px;
+    text-align: center; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+h2{
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300px;
+    color: white;
+
+}
+
+h3{
+    font-size: 22px;
+
+}
+
+p{
+    text-align:justify;
+    color:white;
+    font-size:16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+a{
+    font-weight: 500px;
+    text-decoration:none;
+    font-size: 16px;
+    color: black;
+
+}
+
+td{
+    border:solid 3px white;
+    
+}
+
+img{
+    justify-content: center;
+    width:250px; 
+    height:150px;
+}
+.um{
+    font-size: 20px;
+
+
+}
+
+.dois{
+    color:white;
+    font-size:20px;
+    
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between ;
+    display: flex;
+    font-size: 30px;
+    color: white;
+  }
+
+
+
+
+
